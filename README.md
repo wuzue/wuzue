@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Renan</h1>
-- 🔭 I’m currently working on **portfolio projects**
-
-- 🌱 I’m currently learning **React and some other frontend tools**
-
-- 💬 Ask me about **anything!**
-
-- 📫 How to reach me: **renan.araujoonline@gmail.com**
-
-- ⚡ Fun fact: **I am a basketball player 🏀**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/wuzue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="wuzue" height="30" width="40" /></a>
